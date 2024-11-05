@@ -1,10 +1,9 @@
-# Data_analytics_project
-### HR-Dashboard-MySQL-PowerBI
+# HR-Dashboard-MySQL-PowerBI
 
-##Table Of Contents
+## Table Of Contents
 - [Introduction](#introduction)
 
-- [DataUsed](#dataUsed-used)
+- [DataUsed](#dataused)
 
 - [Contributing](#contributing)
 
