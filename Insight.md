@@ -13,3 +13,8 @@
 9. A significant portion of our workforce hails from Ohio, indicating a strong local presence.
 10. Over the years, our employee count has steadily increased, showing growth and stability.
 11. On average, employees stay with their respective departments for about 8 years, with Legal and Auditing boasting the longest tenures, while Services, Sales, and Marketing have the shortest.
+
+# Limitation
+
+1. We found some records with negative ages, so we removed those from our analysis—totaling 967 records. We only included ages that were 18 years and older.
+2. Additionally, we noticed that some termination dates were set far in the future, so we excluded those as well (1599 records). We only considered termination dates that are on or before today.
