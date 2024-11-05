@@ -31,7 +31,7 @@ We will be using this data set:
 
 ## Relevent Links
 
-- [Her Data Project - YT](https://www.youtube.com/watch?v=PzyZI9uLXvY)
+[Her Data Project - YT](https://www.youtube.com/watch?v=PzyZI9uLXvY)
   
 
 ## Contributing
