@@ -4,7 +4,7 @@
 ##Table Of Contents
 - [Introduction](#introduction)
 
-- [Data Used](#dataUsed-used)
+- [DataUsed](#dataUsed-used)
 
 - [Contributing](#contributing)
 
@@ -21,7 +21,7 @@ Our examination will cover several aspects, including the breakdown of employees
 
 This analysis aims to reveal actionable insights that can guide HR strategies and support the development of a balanced and efficient workforce.
 
-## Data Used
+## DataUsed
 
 We will be using this data set:
 
@@ -33,7 +33,7 @@ We will be using this data set:
 ## Relevent Links
 
 - [Her Data Project - YT](https://www.youtube.com/watch?v=PzyZI9uLXvY)
-- 
+  
 
 ## Contributing
 `Contributions` are always welcome !!
