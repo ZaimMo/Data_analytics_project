@@ -2,7 +2,6 @@
 ## QESTIONS
 
 -- 1. What is the gender breakdown of employees in the company?
-
 SELECT gender, COUNT(*) AS count
 FROM hr2
 WHERE age >= 18 AND termdate = '0000-00-00'
@@ -47,6 +46,7 @@ GROUP BY location;
 SELECT ROUND(AVG(DATEDIFF(termdate, hire_date))/365,0) AS avg_length_of_employment
 FROM hr2
 WHERE termdate <> '0000-00-00' AND termdate <= CURDATE() AND age >= 18;
+
 -- 6. How does the gender distribution vary across departments and job titles?
 SELECT department, gender, COUNT(*) AS count
 FROM hr2
