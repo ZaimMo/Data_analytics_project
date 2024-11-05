@@ -4,7 +4,7 @@
 ##Table Of Contents
 - [Introduction](#introduction)
 
-- [Datasets](#datasets-used)
+- [Data Used](#datasets-used)
 
 - [Contributing](#contributing)
 
